@@ -47,10 +47,6 @@ output/
 results/
 checkpoints/
 
-# T5 specific resources
-# app/input/test.json
-# resources/*.json
-
 # DeepSpeed artifacts
 ds_config.json
 zero_to_fp32.py
