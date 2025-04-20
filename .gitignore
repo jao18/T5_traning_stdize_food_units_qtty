@@ -1,0 +1,75 @@
+# Python files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+.env/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Model files and training artifacts
+fine_tuned_models/
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+*.bin
+*.h5
+runs/
+logs/
+wandb/
+
+# Output directories
+output/
+results/
+checkpoints/
+
+# T5 specific resources
+# app/input/test.json
+# resources/*.json
+
+# DeepSpeed artifacts
+ds_config.json
+zero_to_fp32.py
+*_zero_*/
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+
+# GPU specific
+*.out
+*.err
+nvidia-smi.log
+core.*
+
+# Temporary files
+tmp/
+.cache/
+temp/

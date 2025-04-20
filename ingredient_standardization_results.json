@@ -1,0 +1,42 @@
+[
+  {
+    "input": "2 pièce(s) Crème Brûlée",
+    "standardized": "{ qty: 2 , unit: count , item: eau de vie , mod: None }"
+  },
+  {
+    "input": "2 pièce(s) Panna cotta au coulis de framboise",
+    "standardized": "{ qty: 2 , unit: count , item: prego traditional tuna packed lettuc leav , mod: preserved }"
+  },
+  {
+    "input": "120 g Gaufres",
+    "standardized": "{ qty: 0.333 , unit: g , item: shirataki , mod: None }"
+  },
+  {
+    "input": "1 pièce(s) Nouilles aux légumes et soja",
+    "standardized": "{ qty: 1 , unit: count , item: prego Sun Dried Tomato Dinner , mod: preserved }"
+  },
+  {
+    "input": "2 pièce(s) Filet de canette",
+    "standardized": "{ qty: 2 , unit: count , item: eau de vie , mod: mashed }"
+  },
+  {
+    "input": "1 pièce(s) Prunes",
+    "standardized": "{ qty: 1 , unit: count , item: forest buns , mod: None }"
+  },
+  {
+    "input": "150 g Riz",
+    "standardized": "{ qty: 0.333 , unit: g , item: shirataki , mod: None }"
+  },
+  {
+    "input": "1 pièce(s) Oignon",
+    "standardized": "{ qty: 1 , unit: count , item: forest buns , mod: None }"
+  },
+  {
+    "input": "1 sachet(s) Sauce soja",
+    "standardized": "{ qty: 1 , unit: count , item: Cholula Hot Sauce , mod: None }"
+  },
+  {
+    "input": "1 sachet(s) Purée de gingembre",
+    "standardized": "{ qty: 1 , unit: count , item: eau de vie , mod: mashed }"
+  }
+]
